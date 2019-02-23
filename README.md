@@ -1,2 +1,3 @@
 # yakomaxa.github.io
-testing the github pages
+I may write something here.
+https://yakomaxa.github.io/minus_kTlogP
